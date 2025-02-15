@@ -16,13 +16,12 @@ Johan Duque</a>  <p align="center">
 
 <br>
 
+I am a Computer Engineering student passionate about **Technology**, **Web Design** and **Front-end Development**. I enjoy solving problems with technology and combining design with programming to build solutions to different problems.
+
 - 📍 **Location:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
 - 📧 **Email:** [jhoandp1995@gmai.com](mailto:jn.arias@uniandes.edu.co) 
 - 🎓 **Studies:** Computer Engineering 🖥️
 - 🏫 **University:** [Universidad Experimental del Tachira [UNET]](http://www.unet.edu.ve/) 
-
-I am a Computer Engineering student passionate about **Technology**, **Web Design** and **Front-end Development**. I enjoy solving problems with technology and combining design with programming to build solutions to different problems.
-<br> <br> 
 
 ## 
 
@@ -51,7 +50,7 @@ I am a Computer Engineering student passionate about **Technology**, **Web Desig
 
 ##
 
-### Certifications! 🏆
+### 🏆 Certifications 
   
 |[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
 |---|---|---|---|
@@ -61,8 +60,8 @@ I am a Computer Engineering student passionate about **Technology**, **Web Desig
 
 ### 📊 GitHub Stats:
 
-![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=Johan-Duque&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Johan-Duque&theme=radical&hide_border=false)
+![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=Johan-Duque&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=Johan-Duque&theme=radical&hide_border=false)&nbsp;
 
 <br>
 
