@@ -1,19 +1,16 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
-Johan Duque</a> 
-<br> 
-</h1> 
-
- <p align="center">
+Johan Duque</a>  <p align="center">
 	<br>
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Web+Developer;Computer+Engineer;Always%20learning%20new%20things&center=true&width=380&height=25">
 	</a>
-</p>
+     </p>
+</h1> 
 
 <div padding="50px">
 
+<br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
-##
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
