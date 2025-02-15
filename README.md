@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
-Johan Duque</a></h1> <br>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
+Johan Duque</a> 
+<br> 
+</h1> 
 
-<div align="center">
-<img src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg" align="center" alt="berkeli header image" width="100%" height="250px">
-</div>
-<br>
-
-<p align="center">
+ <p align="center">
+	<br>
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Web+Developer;Computer+Engineer;Always%20learning%20new%20things&center=true&width=380&height=25">
 	</a>
