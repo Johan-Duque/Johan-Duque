@@ -2,7 +2,7 @@
 Johan Duque</a></h1> <br>
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQGrErXUNFk7tQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694683835221?e=2147483647&v=beta&t=9Y30wHLuq9-wcYZkf2miBiXwxWsoswr6ejcetbjbhl8" align="center" alt="berkeli header image" height="300px">
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQGgZwXEkp0K9Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1707745582731?e=2147483647&v=beta&t=_EPAK6-63NlnbCJJsWF3Z1zcNcfZQKhNV1IByivAuFI" align="center" alt="berkeli header image" width="100%" height="350px">
 </div>
 <br>
 
@@ -12,7 +12,7 @@ Johan Duque</a></h1> <br>
 	</a>
 </p>
 
-<div width="600px">
+<div padding="50px">
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 ##
