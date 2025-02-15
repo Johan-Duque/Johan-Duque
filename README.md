@@ -2,13 +2,13 @@
 Johan Duque</a></h1> <br>
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQGgZwXEkp0K9Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1707745582731?e=2147483647&v=beta&t=_EPAK6-63NlnbCJJsWF3Z1zcNcfZQKhNV1IByivAuFI" align="center" alt="berkeli header image" width="100%" height="350px">
+<img src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg" align="center" alt="berkeli header image" width="100%" height="250px">
 </div>
 <br>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=25">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Web+Developer;Computer+Engineer;Always%20learning%20new%20things&center=true&width=380&height=25">
 	</a>
 </p>
 
