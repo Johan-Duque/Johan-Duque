@@ -51,10 +51,65 @@ I am a Computer Engineering student passionate about **Technology**, **Web Desig
 ##
 
 ### 🏆 Certifications 
-  
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
+
+<br>
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">HTML-CSS</h3>
+<div align="center">
+<a href="https://drive.google.com/file/d/1NLBCD85iVefKV5eQWHB1-lliQJLUWaHT/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/gb046n1k/img.jpg" width="400" alt="Curso básico android"></a>
+</div>                                                                                  
+</td>
+
+<td width="50%">
+<h3 align="center">JavaScript Basic</h3>
+<div align="center">                                       
+<a href="https://drive.google.com/file/d/1klL4_dY--CeAsX2j67MhmxS4R4VZY-f-/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/Myg5K0Tt/diploma-javascript.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">JavaScript DOM</h3>
+<div align="center">
+<a href="https://drive.google.com/file/d/1CUIzTRyPYqILETbF4J1CqEkzvenwDBpc/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/fzDVgsqh/diploma-document-object-model.jpg" width="400" alt="Curso básico android"></a>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">JavaScript Design Patterns</h3>
+<div align="center">                                       
+<a href="https://drive.google.com/file/d/1ChERtdmWg6raXqH5X-IekiZgoInUksgB/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/Y9Hpqgt/diploma-patrones-diseno-creacionales.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">React</h3>
+<div align="center">
+<a href="https://drive.google.com/file/d/1w5-6oCTBVBC1Ab978G5wir_ojRNJ2MsF/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/MDhD5Xpy/diploma-react.jpg" width="400" alt="Curso intermedio Android"></a>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">English</h3>
+<div align="center">
+<a href="https://drive.google.com/file/d/1rsr7CggS8qXGCaMxyl5OZ9yXNnCHbIMN/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/pvcD6CWn/diploma-ingles-a1-principiantes.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
 ##
 
