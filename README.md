@@ -2,7 +2,7 @@
 Johan Duque</a>  <p align="center">
 	<br>
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=#Estudiante+De+Ingenieria+Informática;Desarrollador+Front-End;Programador&center=true&width=380&height=25">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=.Estudiante+De+Ingenieria+Informática;Desarrollador+Front-End;Programador&center=true&width=380&height=25">
 	</a>
      </p>
 </h1> 
