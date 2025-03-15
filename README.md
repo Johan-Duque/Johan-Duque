@@ -1,8 +1,8 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
+<h1 align="center"> Hola 👋, Me llamo <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
 Johan Duque</a>  <p align="center">
 	<br>
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Web+Developer;Computer+Engineer;Always%20learning%20new%20things&center=true&width=380&height=25">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+De+Informática;Desarrollador+Front-End;Ingeniero+en+Informática&center=true&width=380&height=25">
 	</a>
      </p>
 </h1> 
@@ -10,22 +10,22 @@ Johan Duque</a>  <p align="center">
 <div padding="50px">
 
 <br>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-I am a Computer Engineering student passionate about **Technology**, **Web Design** and **Front-end Development**. I enjoy solving problems with technology and combining design with programming to build solutions to different problems.
+Soy estudiante de Ingeniería Informática y me apasiona la **Tecnología**, el **Diseño Web** y el **Desarrollo Front-end**. Disfruto resolviendo problemas con tecnología y combinando el diseño con la programación para crear multiples aplicaciones web.
 
-- 📍 **Location:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
+- 📍 **Localidad:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
 - 📧 **Email:** [jhoandp1995@gmai.com](mailto:jn.arias@uniandes.edu.co) 
-- 🎓 **Studies:** Computer Engineering 🖥️
-- 🏫 **University:** [Universidad Experimental del Tachira [UNET]](http://www.unet.edu.ve/) 
+- 🎓 **Estudios:** Ingenieria Informática 🖥️
+- 🏫 **Universidad:** [Universidad Experimental del Tachira [UNET]](http://www.unet.edu.ve/) 
 
 ## 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Tecnologias
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -35,20 +35,20 @@ I am a Computer Engineering student passionate about **Technology**, **Web Desig
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp; Control de versiones y herramientas 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-21BFC4?style=for-the-badge&logo=React&logoColor=black)
 
-### 🗃 &nbsp;Databases
+### 🗃 &nbsp; Base de Datos
 
 ![SQL](https://img.shields.io/badge/-SQL-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
 ##
 
-### 🏆 Certifications 
+### 🏆 Certificados 
 
 <br>
 <table align="center">
@@ -61,7 +61,7 @@ I am a Computer Engineering student passionate about **Technology**, **Web Desig
 </td>
 
 <td width="50%">
-<h3 align="center">JavaScript Basic</h3>
+<h3 align="center">JavaScript Basico</h3>
 <div align="center">                                       
 <a href="https://drive.google.com/file/d/1klL4_dY--CeAsX2j67MhmxS4R4VZY-f-/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/Myg5K0Tt/diploma-javascript.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 </div>                                                             
@@ -80,7 +80,7 @@ I am a Computer Engineering student passionate about **Technology**, **Web Desig
 </td>
 
 <td width="50%">
-<h3 align="center">JavaScript Design Patterns</h3>
+<h3 align="center">Patrones De Diseños En JavaScript</h3>
 <div align="center">                                       
 <a href="https://drive.google.com/file/d/1ChERtdmWg6raXqH5X-IekiZgoInUksgB/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/Y9Hpqgt/diploma-patrones-diseno-creacionales.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 </div>                                                             
@@ -99,7 +99,7 @@ I am a Computer Engineering student passionate about **Technology**, **Web Desig
 </td>       
 
 <td width="50%">
-<h3 align="center">English</h3>
+<h3 align="center">Inglés</h3>
 <div align="center">
 <a href="https://drive.google.com/file/d/1rsr7CggS8qXGCaMxyl5OZ9yXNnCHbIMN/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/pvcD6CWn/diploma-ingles-a1-principiantes.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 </div>
