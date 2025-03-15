@@ -16,7 +16,7 @@ Johan Duque</a>  <p align="center">
 
 <br>
 
-Soy estudiante de Ingeniería Informática y me apasiona la **Tecnología**, el **Diseño Web** y el **Desarrollo Front-end**. Disfruto resolviendo problemas con tecnología y combinando el diseño con la programación para crear multiples aplicaciones web.
+Soy estudiante de Ingeniería Informática y me apasiona la **Tecnología**, el **Diseño Web** y el **Desarrollo Front-End**. Disfruto resolviendo problemas con tecnología y combinando el diseño con la programación para crear multiples aplicaciones web.
 
 - 📍 **Localidad:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
 - 📧 **Email:** [jhoandp1995@gmai.com](mailto:jn.arias@uniandes.edu.co) 
@@ -111,7 +111,7 @@ Soy estudiante de Ingeniería Informática y me apasiona la **Tecnología**, el 
 
 ##
 
-### 📊 GitHub Stats:
+### 📊 Estadísticas en GitHub
 
 ![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=Johan-Duque&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Johan-Duque&theme=radical&hide_border=false)&nbsp;
