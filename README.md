@@ -116,6 +116,14 @@ Soy estudiante de Ingeniería Informática y me apasiona la **Tecnología**, el 
 ![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=Johan-Duque&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Johan-Duque&theme=radical&hide_border=false)&nbsp;
 
+##
+
+### 📊 Actividad reciente
+
+<!--RECENT_ACTIVITY:start> 
+
+<!--RECENT_ACTIVITY:last_update>
+
 <br>
 
 </div>
