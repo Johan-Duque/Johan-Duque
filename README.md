@@ -16,7 +16,7 @@ Johan Duque</a>  <p align="center">
 
 <br>
 
-Soy estudiante de Ingeniería Informática y me apasiona la **Tecnología**, el **Diseño Web** y el **Desarrollo Front-End**. Disfruto resolviendo problemas con tecnología y combinando el diseño con la programación para crear multiples aplicaciones web.
+Soy estudiante de Ingeniería Informática, se usar tecnologías relacionadas con el Front-End como Java Script, HTML, CSS, React y TypeScript. Sin embargo, también se usar lenguajes como Python, Java, C y C++.
 
 - 📍 **Localidad:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
 - 📧 **Email:** [jhoandp1995@gmai.com](mailto:jn.arias@uniandes.edu.co) 
