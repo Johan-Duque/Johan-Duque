@@ -16,8 +16,7 @@ Johan Duque</a>  <p align="center">
 
 <br>
 
-Soy estudiante de Ingeniería Informática, se usar tecnologías relacionadas con el Front-End como Java Script, HTML, CSS, React y TypeScript. Además
-, también se usar lenguajes como Python, Java, C y C++.
+Soy estudiante de Ingeniería Informática, se usar tecnologías relacionadas con el Front-End como Java Script, HTML, CSS, React y TypeScript. Además, también se usar lenguajes como Python, Java, C y C++.
 
 - 📍 **Localidad:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
 - 📧 **Email:** [jhoandp1995@gmai.com](mailto:jn.arias@uniandes.edu.co) 
