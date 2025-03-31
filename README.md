@@ -104,11 +104,33 @@ Soy estudiante de Ingeniería Informática, se usar tecnologías relacionadas co
 <div align="center">
 <a href="https://drive.google.com/file/d/1rsr7CggS8qXGCaMxyl5OZ9yXNnCHbIMN/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/pvcD6CWn/diploma-ingles-a1-principiantes.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 </div>
-                                                                                      
+
 </td>  
 </table>                                                                                 
 </div>
 <br>
+
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">TypeScript</h3>
+<div align="center">
+<a href="https://drive.google.com/file/d/1xYfwNLPV5qX5RZBxDJJmZClnkN0CpiZA/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/8gFG5qvt/diploma-typescript-22-page-0001.jpg" width="400" alt="Curso básico android"></a>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Diseño UX</h3>
+<div align="center">                                       
+<a href="https://drive.google.com/file/d/132tzRVnlbYVPGcNwEzf6CzEojv5zwvDf/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/MxsKgQRP/diploma-diseno-programadores-page-0001.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+                                                                                      
+
 
 ##
 
