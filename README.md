@@ -115,7 +115,7 @@ Soy estudiante de Ingeniería Informática, se usar tecnologías relacionadas co
 <td width="50%">
 <h3 align="center">TypeScript</h3>
 <div align="center">
-<a href="https://drive.google.com/file/d/1xYfwNLPV5qX5RZBxDJJmZClnkN0CpiZA/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/8gFG5qvt/diploma-typescript-22-page-0001.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://drive.google.com/file/d/1xYfwNLPV5qX5RZBxDJJmZClnkN0CpiZA/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/spvStFnz/diploma-typescript-22-page-0001.jpg" width="400" alt="Curso básico android"></a>
 </div>
                                                                                       
 </td>
