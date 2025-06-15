@@ -1,6 +1,7 @@
 <h1 align="center"> Hello 👋, My name is <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
-Johan Duque</a>  <p align="center">
+Johan Duque</a>  <p align="center"> </h1>
 	<br>
+
 
 <div padding="50px">
 
