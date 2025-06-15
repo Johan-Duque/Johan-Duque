@@ -63,7 +63,7 @@ I'm a Computer Engineering student. I'm proficient in Front-End technologies suc
 </td>
 
 <td width="50%">
-<h3 align="center">JavaScript Basico</h3>
+<h3 align="center">JavaScript</h3>
 <div align="center">                                       
 <a href="https://drive.google.com/file/d/1klL4_dY--CeAsX2j67MhmxS4R4VZY-f-/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/Myg5K0Tt/diploma-javascript.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 </div>                                                             
@@ -82,7 +82,7 @@ I'm a Computer Engineering student. I'm proficient in Front-End technologies suc
 </td>
 
 <td width="50%">
-<h3 align="center">Patrones De Diseños En JavaScript</h3>
+<h3 align="center">JavaScript Design Patterns</h3>
 <div align="center">                                       
 <a href="https://drive.google.com/file/d/1ChERtdmWg6raXqH5X-IekiZgoInUksgB/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/Y9Hpqgt/diploma-patrones-diseno-creacionales.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 </div>                                                             
@@ -101,7 +101,7 @@ I'm a Computer Engineering student. I'm proficient in Front-End technologies suc
 </td>       
 
 <td width="50%">
-<h3 align="center">Inglés</h3>
+<h3 align="center">English</h3>
 <div align="center">
 <a href="https://drive.google.com/file/d/1rsr7CggS8qXGCaMxyl5OZ9yXNnCHbIMN/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/pvcD6CWn/diploma-ingles-a1-principiantes.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 </div>
@@ -122,7 +122,7 @@ I'm a Computer Engineering student. I'm proficient in Front-End technologies suc
 </td>
 
 <td width="50%">
-<h3 align="center">Diseño UX</h3>
+<h3 align="center">UX Design</h3>
 <div align="center">                                       
 <a href="https://drive.google.com/file/d/132tzRVnlbYVPGcNwEzf6CzEojv5zwvDf/view?usp=drive_link" target="_blank"><img src="https://i.ibb.co/MxsKgQRP/diploma-diseno-programadores-page-0001.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 </div>                                                             
