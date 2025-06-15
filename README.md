@@ -1,4 +1,4 @@
-<h1 align="center"> Hola 👋, Me llamo <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
+<h1 align="center"> Hello 👋, My name is <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
 Johan Duque</a>  <p align="center">
 	<br>
 	<a href="https://github.com/Bouaskaoun">
@@ -10,23 +10,23 @@ Johan Duque</a>  <p align="center">
 <div padding="50px">
 
 <br>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-Soy estudiante de Ingeniería Informática, se usar tecnologías relacionadas con el Front-End como Java Script, HTML, CSS, React y TypeScript. Además, también se usar lenguajes mas orientados al Backend como Python, Java, C y C++.
+I'm a Computer Engineering student. I'm proficient in Front-End technologies such as JavaScript, HTML, CSS, React, and TypeScript. Additionally, I also know Back-End oriented languages like Python, Java, C, and C++.
 
-- 📍 **Localidad:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
+- 📍 **Location:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
 - 📧 **Email:** [jhoandp1995@gmai.com](mailto:jn.arias@uniandes.edu.co) 
-- 🎓 **Estudios:** Ingenieria Informática 🖥️
-- 🏫 **Universidad:** [Universidad Experimental del Tachira [UNET]](http://www.unet.edu.ve/)
-- 💼 **Portfolio:** <a href="https://johan-duque.github.io/Portfolio" target="_blank">Portfolio Personal</a>
+- 🎓 **Education:** Computer Engineering 🖥️
+- 🏫 **University:** [Universidad Experimental del Tachira [UNET]](http://www.unet.edu.ve/)
+- 💼 **Portfolio:** <a href="https://johan-duque.github.io/Portfolio" target="_blank">Personal Portfolio</a>
 
 ## 
 
-### 🛠 &nbsp; Tecnologias
+### 🛠 &nbsp; Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -37,20 +37,20 @@ Soy estudiante de Ingeniería Informática, se usar tecnologías relacionadas co
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-### 🧰 &nbsp; Control de versiones y herramientas 
+### 🧰 &nbsp; Version Control and Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-21BFC4?style=for-the-badge&logo=React&logoColor=black)
 
-### 🗃 &nbsp; Base de Datos
+### 🗃 &nbsp; Databases
 
 ![SQL](https://img.shields.io/badge/-SQL-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
 ##
 
-### 🏆 Certificados 
+### 🏆 Certificates 
 
 <br>
 <table align="center">
@@ -135,7 +135,7 @@ Soy estudiante de Ingeniería Informática, se usar tecnologías relacionadas co
 
 ##
 
-### 📊 Estadísticas en GitHub
+### 📊 GitHub Stats
 
 ![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=Johan-Duque&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Johan-Duque&theme=radical&hide_border=false)&nbsp;
