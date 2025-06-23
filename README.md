@@ -1,11 +1,13 @@
 <h1 align="center"> Hello 👋, My name is <a href="https://www.linkedin.com/in/johan-omar-duque-pereira-05160733a/" target="blank">
 Johan Duque</a>  <p align="center"> </h1>
-	<br>
+<br>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Computer+Engineering+Student;Programmer"></a>
+</p>
 
 <div padding="50px">
 
-<br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
