@@ -14,10 +14,10 @@ Johan Duque</a>  <p align="center"> </h1>
 
 Computer Engineering student | Front-End Specialist (Next.js, React, TypeScript, Tailwind CSS) | Proficient in Back-End (Java, C/C++) | Currently building scalable web solutions and exploring the latest tech trends
 
-- 📍 **Location:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
-- 📧 **Email:** [jhoandp1995@gmai.com](mailto:jn.arias@uniandes.edu.co) 
+- 📍 **Location:** <a href="https://www.google.com/maps/place/San+Cristóbal,+Táchira" target="_blank">San Cristobal - Venezuela</a>    
+- 📧 **Email:** <a href="mailto:jhoandp1995@gmail.com">jhoandp1995@gmail.com</a> 
 - 🎓 **Education:** Computer Engineering 🖥️
-- 🏫 **University:** [Universidad Experimental del Tachira [UNET]](http://www.unet.edu.ve/)
+- 🏫 **University:** <a href="http://www.unet.edu.ve/" target="_blank">Universidad Nacional Experimental del Táchira (UNET)</a>
 - 💼 **Portfolio:** <a href="https://johan-duque.vercel.app" target="_blank">Personal Portfolio</a>
 
 ## 
