@@ -12,13 +12,13 @@ Johan Duque</a>  <p align="center"> </h1>
 
 <br>
 
-I'm a Computer Engineering student. I'm proficient in Front-End technologies such as JavaScript, HTML, CSS, React, and TypeScript. Additionally, I also know Back-End oriented languages like Python, Java, C, and C++.
+Computer Engineering student | Front-End Specialist (Next.js, React, TypeScript, Tailwind CSS) | Proficient in Back-End (Java, C/C++) | Currently building scalable web solutions and exploring the latest tech trends
 
 - 📍 **Location:** <a href="https://maps.app.goo.gl/NKgGF7dzM2azMY7j7" target="_blank">San Cristobal - Venezuela</a>   
 - 📧 **Email:** [jhoandp1995@gmai.com](mailto:jn.arias@uniandes.edu.co) 
 - 🎓 **Education:** Computer Engineering 🖥️
 - 🏫 **University:** [Universidad Experimental del Tachira [UNET]](http://www.unet.edu.ve/)
-- 💼 **Portfolio:** <a href="https://johan-duque.github.io/Portfolio" target="_blank">Personal Portfolio</a>
+- 💼 **Portfolio:** <a href="https://johan-duque.vercel.app" target="_blank">Personal Portfolio</a>
 
 ## 
 
@@ -28,21 +28,18 @@ I'm a Computer Engineering student. I'm proficient in Front-End technologies suc
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![typescript](https://img.shields.io/badge/typescript-0078d7.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-### 🧰 &nbsp; Version Control and Tools
+### 🚀 &nbsp; Frameworks, Libraries and Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-21BFC4?style=for-the-badge&logo=React&logoColor=black)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-21BFC4?style=for-the-badge&logo=React&logoColor=black)
-
-### 🗃 &nbsp; Databases
-
-![SQL](https://img.shields.io/badge/-SQL-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ##
 
