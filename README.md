@@ -51,7 +51,11 @@ Software Developer | Front-End Specialist (Next.js, React, Astro, TypeScript) | 
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=Johan-Duque&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=Johan-Duque&theme=radical&hide_border=false)&nbsp;
+<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Johan-Duque&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Johan-Duque&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 </div>
